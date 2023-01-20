@@ -11,6 +11,7 @@
 		DA06A65C297A972A007B358D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA06A65B297A972A007B358D /* ContentView.swift */; };
 		DA06A65E297A972C007B358D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA06A65D297A972C007B358D /* Assets.xcassets */; };
 		DA06A662297A972C007B358D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA06A661297A972C007B358D /* Preview Assets.xcassets */; };
+		DA06A669297AD8C7007B358D /* MyModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA06A668297AD8C7007B358D /* MyModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DA06A65D297A972C007B358D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA06A65F297A972C007B358D /* LearningGH.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LearningGH.entitlements; sourceTree = "<group>"; };
 		DA06A661297A972C007B358D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA06A668297AD8C7007B358D /* MyModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DA06A659297A972A007B358D /* LearningGHApp.swift */,
 				DA06A65B297A972A007B358D /* ContentView.swift */,
+				DA06A668297AD8C7007B358D /* MyModels.swift */,
 				DA06A65D297A972C007B358D /* Assets.xcassets */,
 				DA06A65F297A972C007B358D /* LearningGH.entitlements */,
 				DA06A660297A972C007B358D /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				DA06A65C297A972A007B358D /* ContentView.swift in Sources */,
 				DA06A65A297A972A007B358D /* LearningGHApp.swift in Sources */,
+				DA06A669297AD8C7007B358D /* MyModels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
